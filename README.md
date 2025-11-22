@@ -34,8 +34,8 @@ This project is to analyze pizza sales data using Excel and SQL to generate mean
 - Top sellers drive most of the revenue.
 - Low-selling pizzas may need marketing improvement or menu changes.
 
-  ## Dashboard
-  
+  ## Dashboard <a https://github.com/boobalanv0506/Excel-Sale
+
 
 
 
