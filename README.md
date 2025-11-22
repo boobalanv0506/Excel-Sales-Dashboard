@@ -26,6 +26,9 @@ This project is to analyze pizza sales data using Excel and SQL to generate mean
 - Visualized the percentage of sales by pizza category and by pizza size using pie charts.
 - Compared the total pizzas sold across pizza categories using a funnel chart.
 - Identified the top 5 best-selling pizzas and bottom 5 worst-selling pizzas using bar charts.
+ 
+## Dashboard 
+ ![Uploading pizza_salesdashboard.png…](https://github.com/boobalanv0506/Excel-Sales-Dashboard/blob/main/pizza_salesdashboard.png)
 
 ## Conclusion
 - The pizza business is performing well overall.
@@ -33,9 +36,7 @@ This project is to analyze pizza sales data using Excel and SQL to generate mean
 - Sales patterns reveal clear busy periods for the store.
 - Top sellers drive most of the revenue.
 - Low-selling pizzas may need marketing improvement or menu changes.
-
-  ## Dashboard <a https://github.com/boobalanv0506/Excel-Sale
-
+ 
 
 
 
